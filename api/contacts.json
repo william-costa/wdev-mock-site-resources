@@ -1,0 +1,27 @@
+[
+  {
+    "title":"Canal do YouTube",
+    "label":"youtube.com/wdevoficial",
+    "link":"https://youtube.com/wdevoficial"
+  },
+  {
+    "title":"Instagram",
+    "label":"instagram.com/wdevoficial",
+    "link":"https://instagram.com/wdevoficial"
+  },
+  {
+    "title":"Facebook",
+    "label":"facebook.com/wdevoficial",
+    "link":"https://facebook.com/wdevoficial"
+  },
+  {
+    "title":"Twitter",
+    "label":"twitter.com/wdevoficial",
+    "link":"https://twitter.com/wdevoficial"
+  },
+  {
+    "title":"E-mail",
+    "label":"canalwdev@gmail.com",
+    "link":"mailto:canalwdev@gmail.com"
+  }
+]

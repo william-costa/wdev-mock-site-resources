@@ -1,0 +1,17 @@
+[
+  {
+    "label":"Instagram",
+    "icon":"https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/icons/instagram.svg",
+    "link":"https://instagram.com/wdevoficial"
+  },
+  {
+    "label":"Facebook",
+    "icon":"https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/icons/facebook.svg",
+    "link":"https://facebook.com/wdevoficial"
+  },
+  {
+    "label":"Twitter",
+    "icon":"https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/icons/twitter.svg",
+    "link":"https://twitter.com/wdevoficial"
+  }
+]

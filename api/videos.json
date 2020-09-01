@@ -1,0 +1,17 @@
+[
+  {
+    "title":"Primeiros passos com GIT: da criação do repositório até o push no GitHub",
+    "thumb":"https://i1.ytimg.com/vi/0m_nZ_p9idk/maxresdefault.jpg",
+    "link":"https://www.youtube.com/watch?v=0m_nZ_p9idk"
+  },
+  {
+    "title":"CRUD com PHP orientado a objetos, PDO e MySQL",
+    "thumb":"https://i2.ytimg.com/vi/uG64BgrlX7o/maxresdefault.jpg",
+    "link":"https://www.youtube.com/watch?v=uG64BgrlX7o"
+  },
+  {
+    "title":"Criando um jogo da velha com React Native - Iniciando com React Native",
+    "thumb":"https://i2.ytimg.com/vi/-2G0zlyGL_4/maxresdefault.jpg",
+    "link":"https://www.youtube.com/watch?v=-2G0zlyGL_4"
+  }
+]
