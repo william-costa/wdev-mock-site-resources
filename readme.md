@@ -6,6 +6,12 @@ Nesse repositório você vai encontrar variáveis CSS, mocks de APIs e arquivos 
 
 ___________________
 
+## Vídeo WDEV
+
+Para assistir o vídeo dessa implementação, acesse: [VueJS + Axios: desenvolvendo uma aplicação web completa consumindo dados de APIs (YouTube)](https://www.youtube.com/watch?v=kmsM_hHrDHE)
+
+___________________
+
 ## Variáveis CSS
 
 Para facilitar a implementação das cores no projeto, seguem abaixo as variáveis CSS com o esquema de cores do front:
